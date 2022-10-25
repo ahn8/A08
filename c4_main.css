@@ -1,0 +1,79 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+} 
+header h3 a{
+	text-shadow: 2px 2px;
+	color: #800000;
+}
+header h3 sup{
+	text-shadow: 2px 2px;
+	color: #800000;}
+title {
+	text-emphasis-color: #800000;
+}
+main h1 {
+	color: #800000;
+	font-size: 170%;
+	flex: indent 30px; ;
+}
+main h2 {
+	color: black;
+	font-size: 130%;
+	flex: indent 30px; ;
+} 
+/* the styles for the head */
+title {
+	color: #800000;
+}
+head link :hover {
+	font-style: italic;
+}
+/* the styles for the header */
+header img {
+	float: left;
+}
+header link :hover {
+	font-style: italic;
+}
+header p {
+	text-align: center;
+}
+header h3 a { 
+	text-shadow: "shadow";
+	color: #800000;
+}
+footer p{
+	text-align: center;
+}
+/* the styles for the main content */
+main {
+	clear: left;
+}
+main h1 {
+	color: #800000;
+	font-size: 130%;
+	flex: indent 30px; ;
+}
+main h2 {
+	color: black;
+	font-size: 130%;
+	flex: indent 30px;;
+}
+main h3 {
+	font-size: 130%;
+	font-style: italic;
+	flex: indent 30px;;
+}
+h3 link :hover{
+	font-style: italic;
+}
+img h3 :hover{
+	font-style: italic;
+}
+/* the styles for the footer */
+
+
+
+
